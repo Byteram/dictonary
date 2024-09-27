@@ -1,2 +1,2 @@
-# dictonary
+# Dictionary
 Modern Hacker's Dictionary
